@@ -1,2 +1,3 @@
 # git_test
-ddd
+dddgit --version
+ssh-add ~/.ssh/id_ed25519
